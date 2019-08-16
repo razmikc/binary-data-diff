@@ -18,7 +18,7 @@ At least java 11 and Maven 3.5 are needed!
 ```sh
 $ cd binary-data-diff
 $ mvn clean package
-$ java -jar target/binary-data-diff-1.0.jar 
+$ java -jar target/data-diff-1.0.jar 
 ```
 
 ### Running tests
